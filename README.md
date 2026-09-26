@@ -89,4 +89,5 @@ Found the CLSID for a different Creo version, or got the "attach to a
 running session" path working cleanly? PRs and issues welcome — the goal is a
 version-by-version reference that saves the next person the guesswork.
 
+## Disclaimer
 "Not affiliated with or endorsed by PTC. Creo and PTC are trademarks of their respective owners."
